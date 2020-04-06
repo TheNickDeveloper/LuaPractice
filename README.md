@@ -1,0 +1,2 @@
+# LuaPractice
+ Lua basic practice
